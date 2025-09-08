@@ -1,28 +1,51 @@
-# CourseProjectServicesFinal
+🍴 Recipe Book App (Proyecto Final – Angular 16)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.0.
+Este proyecto es el resultado del curso “Angular – The Complete Guide” de Maximilian Schwarzmüller en Udemy.
+Es una aplicación frontend en Angular 16 que permite gestionar recetas e ingredientes, diseñada como práctica final del curso.
 
-## Development server
+🚀 Tecnologías usadas
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Angular 16
 
-## Code scaffolding
+TypeScript
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Bootstrap 5 (estilos y diseño responsive)
 
-## Build
+RxJS (observables y Subjects)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Angular Forms (Template-Driven y Reactive Forms)
 
-## Running unit tests
+Routing & Guards
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+✨ Funcionalidades
 
-## Running end-to-end tests
+📋 Gestión de recetas: crear, editar, eliminar y visualizar recetas
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+🛒 Lista de compras: añadir ingredientes desde recetas
 
-## Further help
+🔄 Data binding: comunicación entre componentes (padre/hijo y servicios)
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
-# angular-_16
+🎨 Diseño responsive con Bootstrap 5
+
+⚡ Optimización con lazy loading y módulos feature
+
+⚠️ Nota: Este proyecto no tiene backend. Los datos de recetas e ingredientes se mantienen en memoria mientras la aplicación está en ejecución.
+
+📌 Aprendizajes clave
+
+Diferencias entre Template-driven forms y Reactive forms
+
+Implementación de routing con parámetros y navegación
+
+Uso de services e inyección de dependencias para compartir datos
+
+Manejo de Subjects en RxJS para comunicación entre componentes
+
+Buenas prácticas de arquitectura en Angular (módulos feature + shared)
+
+Integración de Bootstrap 5 en Angular
+
+🙋‍♀️ Autora
+
+Este proyecto fue desarrollado como parte del curso de Angular en Udemy.
+Alumno/a: Nicole Struggia
