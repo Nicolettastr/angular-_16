@@ -1,0 +1,10 @@
+input.ng-invalid.ng-touched,
+textarea.ng-invalid.ng-touched {
+  border: 1px solid red;
+}
+
+.imgPath {
+  max-width: 100%;
+  height: auto;
+  margin: 2rem 0;
+}

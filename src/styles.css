@@ -1,0 +1,32 @@
+/* You can add global styles to this file, and also import other style files */
+.ml-3 {
+  margin-left: 1rem;
+}
+
+.mt-5 {
+  margin-top: 2rem;
+}
+
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+.mdc-snackbar {
+  width: 100%;
+  height: fit-content;
+  display: flex;
+  justify-content: start;
+  align-items: start;
+  top: 0;
+  position: absolute !important;
+}
+
+.mdc-snackbar__surface {
+  background: #28a745 !important;
+  color: #fff !important;
+}
